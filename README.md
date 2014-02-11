@@ -1,4 +1,4 @@
-scoreflex-ios-samples
+Scoreflex iOS Samples
 =====================
 
 Scoreflex iOS Samples
